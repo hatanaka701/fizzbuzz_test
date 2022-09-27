@@ -1,0 +1,23 @@
+body {
+    margin-top: 30px;
+}
+
+#contents {
+    display: flex;
+    flex-direction: column;
+}
+
+#input {
+    display: inline;
+    width: 300px;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+#btn {
+    width: 100px;
+}
+
+#result {
+    font-size: 20px;
+}
